@@ -37,3 +37,7 @@ Pheno:  0201051200
 Name:   Klebsiella pneumoniae
 Strain: X87276
 Pheno:  0455034101
+
+Name:   Lunavey pneumoniae
+Strain: X87277
+Pheno:  0455034102
